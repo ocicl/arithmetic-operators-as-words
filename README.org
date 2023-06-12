@@ -1,0 +1,9 @@
+* arithmetic-operators-as-words
+
+symbolic mathematic operations from CLHS as words http://www.lispworks.com/documentation/HyperSpec/Body/12_aa.htm
+
+|---------+-----------------------------------------------------------------|
+| source  | git:https://github.com/K1D77A/arithmetic-operators-as-words.git |
+| commit  | 7f6dc2c                                                         |
+| systems | arithmetic-operators-as-words                                   |
+|---------+-----------------------------------------------------------------|
