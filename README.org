@@ -7,3 +7,4 @@ symbolic mathematic operations from CLHS as words http://www.lispworks.com/docum
 | commit  | 7f6dc2c                                                         |
 | systems | arithmetic-operators-as-words                                   |
 |---------+-----------------------------------------------------------------|
+ 
